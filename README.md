@@ -52,7 +52,4 @@ Outputs:
 **Onyekachi Ejimofor**  
 Python Developer | Web Scraping & Data Automation  
 
-🔗 [LinkedIn](https://www.linkedin.com/in/onyekachiejimofor)  
-💼 [GitHub](https://github.com/Onyeksman)  
-📧 [onyeife@gmail.com](mailto:onyeife@gmail.com)
 
